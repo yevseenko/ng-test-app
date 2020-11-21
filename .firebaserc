@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-test-25d9a": {
+      "hosting": {
+        "ng-test-app": [
+          "ng-test-25d9a"
+        ]
+      }
+    }
+  }
+}
